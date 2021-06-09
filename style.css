@@ -1,0 +1,30 @@
+.a
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px; 
+    box-shadow:5px 5px 5px blue;
+}
+
+.b
+{
+    font-size: 15px;
+    color: black;
+}
+
+.c {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:blue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:5px solid blue;
+    border-radius:20px;
+   box-shadow: 5px 5px 5px 5px black;
+}
